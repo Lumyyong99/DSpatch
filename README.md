@@ -1,6 +1,6 @@
 # A Unified Framework for Generating Diverse and Stealthy Adversarial Patches against Aerial Object Detection
 <div align="center">
-  <img src="https://github.com/Lumyyong99/DSpatch/blob/main/assets/DSAPrendering.png" width="400px">
+  <img src="https://github.com/Lumyyong99/DSpatch/blob/main/assets/DSAPrendering.png" width="720px">
 </div>
 
 # Introduction
