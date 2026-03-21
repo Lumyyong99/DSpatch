@@ -12,3 +12,5 @@ Please refer to XXX for installation and dataset preparation.
 ## Getting Started
 Please see XXX for the basic usage of GF-CSL.
 
+## Custom dataset
+Our custom aerial object detection dataset can be download from: XXX
