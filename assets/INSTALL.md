@@ -11,5 +11,5 @@
 ### Install
 We provide a reference plan for installation.
 1. Create a conda virtual environment and activate it.
-2. Install PyTorch and torchvision following the [official instructions](https://pytorch.org/)
-3. Install [mmrotate](https://github.com/open-mmlab/mmrotate) for obtaining rotated detectors.
+2. Install [PyTorch and torchvision](https://pytorch.org/) following the official instructions
+3. Install [mmrotate](https://github.com/open-mmlab/mmrotate) following the official instruction for obtaining rotated detectors.
