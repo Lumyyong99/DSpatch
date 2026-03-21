@@ -1,8 +1,9 @@
-# DSpatch
-Source code for article: A Unified Framework for Generating Diverse and Stealthy  Adversarial Patches against Aerial Object Detection
+# A Unified Framework for Generating Diverse and Stealthy Adversarial Patches against Aerial Object Detection
 <div align="center">
   <img src="https://github.com/Lumyyong99/DSpatch/blob/main/assets/DSAPrendering.png" width="400px">
 </div>
 
 # Introduction
 Deep neural network (DNN) has become important in aerial object detection field. However, due to the vulnerabilities of DNN, adversarial patch is proved to be an efficient method to attack the DNN models, which can maliciously manipulate model predictions, potentially causing critical perception and decisionmaking errors in safety-sensitive systems. Current adversarial patch methods, which directly adopt pixel-level optimization, can obtain a good attack performance, but the generated patches inevitably introduce abstract content that significantly different from surrounding environment, creating easily identified patterns that undermine stealthiness. Moreover, optimized adversarial pattern is single and fixed after training, making them easy to defend against. In this work, we propose a unified adversarial attack framework, named Diverse and Stealthy Adversarial Patches (DSAP). The DSAP can generate arbitrary number of patches with different patterns, which are visually integrated with the surrounding environment and difficult to recognize. By placing the patches on the ground, the detector will identify the patches as non-existing target objects. We train a generator to implicitly encode adversarial content, which can directly map distinct latent vectors to patches with different adversarial patterns, making them difficult to defend against. In addition, we construct a source domain image set based on the scene background and use a discriminator to constrain the similarity between generated patches and background environment, ensuring stealthiness while keeping attack performance. Extensive experimental results demonstrate the superiority of our patch in terms of stealthiness and defense difficulty compared to ordinary adversarial patches, while the physical domain experiments indicate that our attack can transfer from digital to physical domain, posing a threat in the real world.
+
+# Get Started
