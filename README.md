@@ -10,7 +10,7 @@ Deep neural network (DNN) has become important in aerial object detection field.
 Please refer to [installation instruct](https://github.com/Lumyyong99/DSpatch/blob/main/assets/INSTALL.md) for environment installation.
 
 ## Getting Started
-Please see [getting started instruction](https://github.com/Lumyyong99/DSpatch/blob/main/assets/GETTING_STARTED.md) for the basic training of DSAP.
+Please see getting started [instruction](https://github.com/Lumyyong99/DSpatch/blob/main/assets/GETTING_STARTED.md) for the basic training of DSAP.
 
 ## Custom dataset
-Our custom aerial object detection dataset can be download from: XXX
+Our custom aerial object detection dataset can be download from: [https://pan.baidu.com/s/13bS80Q6JxfxXVKlUWx0Q0w?pwd=1234](https://pan.baidu.com/s/13bS80Q6JxfxXVKlUWx0Q0w?pwd=1234). The datasets contain a raw video captured by the drone, as well as scene images and labels of vehicle target objects. You can process the raw video data yourself to obtain customized data.
